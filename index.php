@@ -1,3 +1,3 @@
 <?php 
-echo "Update #2";
+echo "Update #3";
 phpinfo();
